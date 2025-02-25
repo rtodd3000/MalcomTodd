@@ -1,0 +1,34 @@
+html, body{
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    background-image: url("https://www.malcolmtodd.cool/images/brick.jpg");
+    font-family: "futura-bold", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 100%
+}
+
+a{
+    text-decoration: none;
+}
+
+.custom-btn {
+    width: 300px; /* Adjust as needed */
+}
+
+p{
+    margin-left: 20px;
+    text-align: center;
+    font-size: 65%;
+    font-family: "futura", sans-serif;
+}
+
+footer{
+    color: white;
+    font-size: 1rem;
+}
